@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 647471a22a1bf7142b9d3d47605d22f9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221843
+  packageName: Ultimate Currency Manager
+  packageVersion: 1.2.0
+  assetPath: Assets/IntenseNation/Ultimate Currency Manager/Scripts/ConvertedCurrency.cs
+  uploadId: 539389
