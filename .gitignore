@@ -1,0 +1,55 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Crash and Debugging
+MemoryCaptures/
+
+# Visual Studio / JetBrains Rider
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Unity metadata
+*.pidb.meta
+*.pdb.meta
+
+# Auto-generated files
+*.bak
+*.swp
+*.lock
+*.log
+.DS_Store
+Thumbs.db
+
+# Ignore Play Mode and Editor settings
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/TagManager.asset
+ProjectSettings/GraphicsSettings.asset
+ProjectSettings/QualitySettings.asset
+
+# Unity Packages
+Packages/*-lock.json
+
+# Prevent pushing .env files
+.env
+
+# Ignore Builds and Deployment
+Build/
+Builds/
